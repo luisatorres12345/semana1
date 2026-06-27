@@ -1,8 +1,9 @@
-El uso responsable de la información en internet es clave para participar con seguridad y confianza.
-La ciudadanía digital implica verificar fuentes y respetar normas éticas antes de compartir contenido.
-Al participar como ciudadano digital, se debe evitar la desinformación y promover datos confiables.
-Git permite organizar el trabajo técnico, registrar cambios y colaborar con transparencia.
-Con Git se puede trabajar en equipo y mantener un historial claro de las decisiones.
-Esto fortalece la responsabilidad digital y la rendición de cuentas.
-Además, usar GitHub facilita publicar el trabajo y compartir evidencia de la actividad realizada.
-De esta forma, la organización técnica refuerza la participación ciudadana en línea.
+Pienso que el uso responsable de la información en internet es fundamental porque no todo lo que 
+vemos es cierto y es mejor verificarlo antes de dañar la reputación de una persona o de desinformar.
+Eso también hace parte de un ciudadano digital, ya que debe evitar la desinformación y respetar a las demás personas.
+Por su parte, herramientas como Git permiten organizar mejor el trabajo, guardar los cambios que hacemos
+y trabajar sin perder la información.
+Además, con Git se puede trabajar en equipo y mantener un historial claro de quién hizo qué cosa, lo que mantiene
+el orden y la responsabilidad. En mi opinión, usar estas herramientas también demuestra responsabilidad digital
+y facilita el trabajo tanto individual como grupal.
+
